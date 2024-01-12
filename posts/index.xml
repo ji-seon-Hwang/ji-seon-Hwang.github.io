@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jsoni</title>
+    <link>https://ji-seon-Hwang.github.io/posts/</link>
+    <description>Recent content in Posts on Jsoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Jsoni</copyright>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ji-seon-Hwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UX팀 스터디</title>
+      <link>https://ji-seon-Hwang.github.io/posts/uxteam/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ji-seon-Hwang.github.io/posts/uxteam/</guid>
+      <description>2024년, 첫번째 스터디 SSG (Static Site Generator) 자기만의 블로그를 생성합니다. archie 템플릿으로 해보는 연습을 합니다. :)</description>
+    </item>
+  </channel>
+</rss>

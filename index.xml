@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jsoni</title>
+    <link>https://ji-seon-Hwang.github.io/</link>
+    <description>Recent content on Jsoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Jsoni</copyright>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ji-seon-Hwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UX팀 스터디</title>
+      <link>https://ji-seon-Hwang.github.io/posts/uxteam/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ji-seon-Hwang.github.io/posts/uxteam/</guid>
+      <description>2024년, 첫번째 스터디 SSG (Static Site Generator) 자기만의 블로그를 생성합니다. archie 템플릿으로 해보는 연습을 합니다. :)</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ji-seon-Hwang.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ji-seon-Hwang.github.io/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://ji-seon-Hwang.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ji-seon-Hwang.github.io/about/</guid>
+      <description>뭐지? 어바웃 할말이 없다&amp;hellip;..&#xA;https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&#xA;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&#xA;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</description>
+    </item>
+  </channel>
+</rss>
